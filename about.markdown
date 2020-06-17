@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Profile Picture]
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is Hritik Arasu's site. I will be teaching myself some programming, robotics, and pursue some activities in Machine Learning. Starting from Fall 2020, I will be a student at the University of Washington and would love to get some more hands-on experience.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can email me at [hritikarasu@gmail.com][hritikarasu@gmail.com]
+Some projects that I have done in the past can be found at [ahritik]: https://github.com/ahritik
