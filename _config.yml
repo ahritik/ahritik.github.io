@@ -28,7 +28,7 @@ twitter_username: hritikomode
 github_username:  ahritik
 
 # Build settings
-remote-theme: piharpi/jekyll-klise
+theme: minima
 plugins:
   - jekyll-feed
 
