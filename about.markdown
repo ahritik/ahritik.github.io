@@ -10,4 +10,6 @@ This is Hritik Arasu's site. I will be teaching myself some programming, robotic
 
 You can email me at [hritikarasu@gmail.com](hritikarasu@gmail.com)
 
+I have attatched my resume [here](HritikArasuResume.docx)
+
 Some projects that I have done in the past can be found at [ahritik](https://github.com/ahritik)

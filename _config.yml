@@ -21,16 +21,22 @@
 title: Hritik Arasu
 email: hritikarasu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hritik Arasu's blunders into python, robotics, and machine learning.
+  Hritik Arasu's blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ahritik.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hritikomode
 github_username:  ahritik
+favicon: >-
+  title: Hritik's Blog
+  icon_path: favicon.png
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+include:
+  - _static
 
 # Exclude from processing.
 # The following items will not be processed, by default.

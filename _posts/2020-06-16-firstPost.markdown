@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   2020-06-16 21:52:16 -0700
+date:   2020-06-26 21:52:16 -0700
 categories: [python,life]
 ---
 This is my first post on my blog to test the capabilities of Jekyll. I will also be showcasing some data visualization and simple linear regression using python.
@@ -40,7 +40,7 @@ plt.show()
 ```
 
 
-![svg](FirstLinearRegression_files/FirstLinearRegression_4_0.svg)
+![png](/_posts/FirstLinearRegression_files/FirstLinearRegression_4_0.png)
 
 
 ### Create a Linear Regression Model
@@ -62,5 +62,4 @@ plt.show()
 ```
 
 
-![svg](FirstLinearRegression_files/FirstLinearRegression_6_0.svg)
-
+![png](/_posts/FirstLinearRegression_files/FirstLinearRegression_6_0.png)
